@@ -3,6 +3,8 @@ code {
 }
 
 body {
+  background-color: rgba(29, 54, 109, 0.877);
+  color: white;
   margin: 0;
   font-family: 'Nunito', 'Avenir', 'Helvetica', 'sans-serif';
   -webkit-font-smoothing: antialiased;
@@ -41,7 +43,7 @@ template {
 }
 a {
   font-style: normal;
-  color: hsla(0, 0%, 0%, 0.8);
+  color: white;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
@@ -200,7 +202,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: hsla(0, 0%, 0%, 0.8);
+  color: white;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
